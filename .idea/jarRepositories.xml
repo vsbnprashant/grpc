@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="ipensionSnapshotRepository" />
+      <option name="name" value="ipensionSnapshotRepository" />
+      <option name="url" value="https://artifactory-ipension.elca-services.com/artifactory/ipension-maven-snapshot" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://artifactory-ipension.elca-services.com/artifactory/maven-public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="ipensionReleaseRepository" />
+      <option name="name" value="ipensionReleaseRepository" />
+      <option name="url" value="https://artifactory-ipension.elca-services.com/artifactory/ipension-maven-release" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="mavenThirdpartyRepository" />
+      <option name="name" value="mavenThirdpartyRepository" />
+      <option name="url" value="https://artifactory-ipension.elca-services.com/artifactory/maven-thirdparty" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="mavenPublicRepository" />
+      <option name="name" value="mavenPublicRepository" />
+      <option name="url" value="https://artifactory-ipension.elca-services.com/artifactory/maven-public" />
+    </remote-repository>
+  </component>
+</project>
